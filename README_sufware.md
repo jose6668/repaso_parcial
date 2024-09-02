@@ -17,7 +17,9 @@ Un proceso de software es un conjunto de actividades, métodos,y prácticas que 
 La creación de prototipos es esencial para validar diseños y requerimientos. Se enfatiza que los prototipos no deben ser utilizados como sistemas de producción debido a su naturaleza incompleta y a la falta de formalidad en su desarrollo .
 # Ingeniería de Requerimientos:
 
-Es crucial distinguir entre los requerimientos del usuario y los del sistema. Esto ayuda a asegurar que el software final cumpla con las expectativas del usuario .
+#### Es crucial distinguir entre los requerimientos del usuario y los del sistema. Esto ayuda a asegurar que el software final cumpla con las expectativas del usuario .
+
+#### Las actividades en la ingeniería de requerimientos incluyen la recopilación de requerimientos del usuario, la especificación de requerimientos, la validación de estos requerimientos y la gestión de cambios.
 ## Cambio en Sistemas Complejos:
 
 Se reconoce que el cambio es inevitable en sistemas complejos, y se sugieren prácticas para manejar estos cambios de manera efectiva .
