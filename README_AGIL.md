@@ -4,12 +4,12 @@ El documento aborda el desarrollo ágil de software, destacando su enfoque en la
 # Partes más importantes:
 ## Metodologías Ágiles:
 
-Extreme Programming (XP): Se centra en la programación en pares, la integración continua y el desarrollo guiado por pruebas. Las empresas que adoptan XP a menudo personalizan las prácticas según sus necesidades específicas .
-Scrum: Un marco que promueve la autoorganización y la colaboración en equipos, permitiendo adaptaciones rápidas a los cambios en los requisitos.
-Prácticas Clave:
+#### Extreme Programming (XP): Se centra en la programación en pares, la integración continua y el desarrollo guiado por pruebas. Las empresas que adoptan XP a menudo personalizan las prácticas según sus necesidades específicas .
+#### Scrum: Un marco que promueve la autoorganización y la colaboración en equipos, permitiendo adaptaciones rápidas a los cambios en los requisitos.
+# Prácticas Clave:
 
-Desarrollo guiado por pruebas: Ayuda a los programadores a entender mejor los requisitos del sistema y a diseñar soluciones más efectivas .
-Iteraciones cortas: Permiten la entrega frecuente de incrementos de software, facilitando la retroalimentación continua del cliente.
+#### Desarrollo guiado por pruebas: Ayuda a los programadores a entender mejor los requisitos del sistema y a diseñar soluciones más efectivas .
+#### Iteraciones cortas: Permiten la entrega frecuente de incrementos de software, facilitando la retroalimentación continua del cliente.
 Desafíos del Desarrollo Ágil:
 
 La necesidad de una comunicación constante y efectiva entre los miembros del equipo.
