@@ -5,14 +5,13 @@ El documento aborda los procesos de software, que son fundamentales para la plan
 # Partes Importantes:
 Definición de Proceso de Software:
 
-Un proceso de software es un conjunto de actividades, métodos,
-y prácticas que se utilizan para desarrollar y mantener software.
+Un proceso de software es un conjunto de actividades, métodos,y prácticas que se utilizan para desarrollar y mantener software.
 
 ## Modelos de Proceso:
 
-Modelo en Cascada: Un enfoque lineal donde cada fase debe completarse antes de pasar a la siguiente.
-Modelo en Espiral: Combina elementos de diseño y prototipado en etapas, permitiendo la evaluación de riesgos.
-Desarrollo Ágil: Enfocado en la flexibilidad y la colaboración, permitiendo cambios rápidos en los requerimientos.
+#### Modelo en Cascada: Un enfoque lineal donde cada fase debe completarse antes de pasar a la siguiente.
+#### Modelo en Espiral: Combina elementos de diseño y prototipado en etapas, permitiendo la evaluación de riesgos. es creado por boehm
+#### Desarrollo Ágil: Enfocado en la flexibilidad y la colaboración, permitiendo cambios rápidos en los requerimientos.
 ## Prototipos:
 
 La creación de prototipos es esencial para validar diseños y requerimientos. Se enfatiza que los prototipos no deben ser utilizados como sistemas de producción debido a su naturaleza incompleta y a la falta de formalidad en su desarrollo .
